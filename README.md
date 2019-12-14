@@ -6,5 +6,5 @@
 <li> A self cleansing velocity is maintained
 <li> Flow velocity and pipe slope determined using Manning Equation
 <li> Pipe diameter, flow velocity as well as excavation depths of each sewer section are some of the main outputs
-     <a href= StormSewer_Output.xlsx> < See a sample output file </a>  
+     <a href= StormSewer_Output.xlsx> View sample output file </a>  
 
