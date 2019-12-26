@@ -8,3 +8,5 @@
 <li> Pipe diameter, flow velocity as well as excavation depths of each sewer section are some of the main outputs
      (<a href= StormSewer_Output.xlsx> View sample output file </a>)  
 
+
+<a href="https://aynom.github.io/RP_Sewer/StormSewer_Output.xlsx"><font size="3" ><b> Spatial data analysis using RP_GIS: The GIS interface of <i>RationalPeak</i> Model </b></font></a>
